@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The I of the Dragon</title>
+  <title>Books</title>
   <style>
     :root {
       --bg: #0f1419;
@@ -23,7 +23,7 @@
       line-height: 1.6;
     }
     .wrap {
-      max-width: 36rem;
+      max-width: 40rem;
       margin: 0 auto;
       padding: 2.5rem 1.25rem 4rem;
     }
@@ -38,16 +38,31 @@
       font-size: 0.95rem;
       margin: 0 0 2rem;
     }
-    ol {
+    ul {
+      list-style: none;
       margin: 0;
-      padding-left: 1.35rem;
+      padding: 0;
     }
-    li { margin: 0.45rem 0; }
-    a {
+    li {
+      margin: 0;
+      border-bottom: 1px solid var(--surface);
+    }
+    li:last-child { border-bottom: none; }
+    li a {
+      display: block;
+      padding: 1rem 0;
       color: var(--accent);
       text-decoration: none;
+      font-size: 1.05rem;
     }
-    a:hover { color: var(--accent-hover); text-decoration: underline; }
+    li a:hover { color: var(--accent-hover); }
+    li a span {
+      display: block;
+      font-size: 0.85rem;
+      color: var(--muted);
+      font-weight: normal;
+      margin-top: 0.25rem;
+    }
     footer {
       margin-top: 3rem;
       padding-top: 1.5rem;
@@ -59,25 +74,23 @@
 </head>
 <body>
   <div class="wrap">
-    <h1>The I of the Dragon</h1>
-    <p class="subtitle">Chapters</p>
-    <ol id="toc"></ol>
-    <footer>Hosted with GitHub Pages · Markdown rendered in the reader</footer>
+    <h1>Books</h1>
+    <p class="subtitle">Read online (GitHub Pages)</p>
+    <ul>
+      <li>
+        <a href="the-i-of-the-dragon/index.html">The I of the Dragon<span>Chapters 1–32 · Markdown</span></a>
+      </li>
+      <li>
+        <a href="starship-chronicles/index.html">Starship Chronicles<span>15 chapters · Markdown</span></a>
+      </li>
+      <li>
+        <a href="dark-and-danger/index.html">Dark and danger<span>Chapters 1–42 · Plain text</span></a>
+      </li>
+      <li>
+        <a href="tide-of-blades/index.html">Tide of Blades<span>Book 1 · 30 chapters · Plain text</span></a>
+      </li>
+    </ul>
+    <footer>Static readers; chapters live in this repository.</footer>
   </div>
-  <script>
-    (function () {
-      var n = 32;
-      var ol = document.getElementById("toc");
-      for (var i = 1; i <= n; i++) {
-        var name = "chapter " + i + ".md";
-        var li = document.createElement("li");
-        var a = document.createElement("a");
-        a.href = "read.html?c=" + encodeURIComponent(name);
-        a.textContent = "Chapter " + i;
-        li.appendChild(a);
-        ol.appendChild(li);
-      }
-    })();
-  </script>
 </body>
 </html>

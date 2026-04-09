@@ -1,0 +1,287 @@
+Chapter 12
+
+
+Frank, his bleary eyes squinting, sat up on his rough bedroll. He had been putting off something he knew he needed to do – check the notifications from their last battle. With a heavy sigh, he lifted his fist. One popup looked especially important.
+
+
+
+
+You have reached level 2.
+You have 5 unassigned stat points.
+Your skill now can reach the cap of 6.
+You have learned a new skill, Backstab
+You have learned a new skill, Butchery 
+Your skill Precise Strikes reached level 3 !
+	
+
+
+
+Frank instantly checked his new skill out.
+
+
+Backstab lvl.1: Multiply damage by 2 if you manage to strike your enemy from behind while they're unaware of you. 
+	
+
+
+Frank couldn't contain his excitement any longer. His heart pounded in his chest as he let out an exuberant whoop, oblivious to the fact that he had just roused his sleeping comrades from their sleep.
+
+
+"Mia! Hector! Diana!" he exclaimed, his voice filled with exhilaration. "Wake up, everyone! I just leveled up! Wait till you see what new skills I've unlocked!"
+
+
+His words were met with a chorus of groans and half-hearted protests from his still-groggy friends. Mia rubbed her eyes, her auburn hair tousled from sleep, while Hector grumbled something about early mornings.
+
+
+Diana, who was keeping watch, stood up with a sigh. "Frank, do you have to be so enthusiastic at this hour?"
+
+
+As his friends joined him around the holographic display, Frank couldn't help but feel a glimmer of hope. They were surviving and getting stronger and it felt good.
+
+
+As Frank excitedly navigated through the skill menu, Hector couldn't help but interject with a question. "Frank, how are you planning to assign your stat points?"
+Frank paused for a moment, considering his options. "I was thinking of splitting it three into DEX and two into STR. While my skills use mana I’ve never lacked it in combat."
+Before Frank could finalize his choices, Diana chimed in, her mind hard at work. "Hold on a moment," she said, raising a hand to pause the discussion. "What if we conduct a little experiment first? We can allocate some skill points to different attributes, and see how they affect Frank's abilities in practice. It might give us a better understanding of the system's mechanics."
+Hector nodded in agreement, seeing the value in Diana's proposal. "That makes sense," he conceded. "It's better to have concrete data before making any major decisions."
+Frank, always up for a challenge, flashed a grin. "Sounds like a plan. I even have an idea on how to do it.”
+
+He took a moment to pick up four small rocks from the ground, his fingers gripping them tentatively. With a deep breath, he started to juggle, the rocks moving in a decent rhythm but lacking the finesse of a professional. His juggling was adequate, but it wasn't exceptional by any means. The rocks occasionally slipped from his grasp, and there was a certain clumsiness to his performance.
+After observing his initial juggling attempt, Frank decided on his skill point allocation. He assigned three points into Dexterity. With his skill points allocated, Frank picked up the same rocks again. This time, as he began to juggle, there was a noticeable improvement. The rocks moved with more fluidity and control, and Frank's hand-eye coordination seemed to have sharpened. 
+The group watched with surprise and excitement as Frank's juggling skills improved right before their eyes. 
+“Damn, not dropping everything all the time is awesome, I like this system thing.” Frank quipped.
+Diana nodded, deep in though, her analytical mind intrigued by the visible results. "It's fascinating how directly the allocation of skill points affects your abilities. This is literally computer game logic, no stable progression but fits and jumps as we hit thresholds."
+Mia couldn't help but smile, her worry temporarily forgotten in the face of their small victory. "Frank, you're turning into a real circus act. Who would've thought?"
+Frank chuckled, feeling a sense of accomplishment. "Well, it's a start. Time to check out my strength.” His competitive spirit rising, Frank proposed an arm-wrestling match as a test of strength. "Alright, Hector," he said with a grin, flexing his bicep, "let's see who's got the stronger arm."
+Hector raised an eyebrow and nodded, his mood still dark.
+Before they could lock hands, Diana interjected "Wait a moment, Frank," she said, "I just remembered something. Hector has a skill called 'Hard Training' that affects his strength. It could skew the results."
+Hector nodded in agreement, realizing that his skill could indeed disrupt the test. "Shit, you’re right. That wouldn't be a fair comparison."
+Instead, they decided on a different test. Frank would lift a sizable piece of rubble, a concrete block that had fallen from the ceiling.. He heaved it up with a strained effort, beads of sweat forming on his forehead. It was undoubtedly a challenging task, and the group watched with anticipation.
+Frank managed to lift it off the floor but only barely. Once he had set the rubble back down, he took a moment to catch his breath. He assigned the two points into STR. Then, he approached it again. This time, with the same effort, he lifted it more easily. It was as if the weight had lessened, and the strain on his muscles was noticeably reduced.
+The group exchanged surprised glances, realizing that Frank's allocated skill points had made a significant impact on his strength. It was a tangible demonstration of the system's influence on their bodies. 
+Diana nodded, processing the results. "This confirms that the allocation of skill points directly affects our physical capabilities. It's a valuable insight."
+Frank, breathing a bit heavily but clearly satisfied with the outcome, flexed his newly strengthened arm. "Guess this means I'll be on rubble duty from now on, huh?" They all shared a chuckle, appreciating the opportunity for a bit of levity.
+
+As the group settled down after Frank's demonstration of his improved strength, they couldn't help but delve into a discussion about the finer details of their skills and leveling system.
+"So, Frank," Mia began, leaning against a nearby piece of rubble, "you mentioned that there's a cap on skills, right? What's the deal with that?"
+
+
+Frank nodded, scratching his head. "Yeah, it's kind of weird. I checked my character sheet after leveling up, and it says the skill cap is now six."
+
+
+Diana, chimed in, "That's interesting. It suggests there's a correlation between our skill caps and our levels."
+
+
+Mia furrowed her brow "So, if we follow that pattern, does it mean our skills cap at three times our level?"
+
+
+Frank shrugged. "It's just a theory, but it fits with what we've seen so far."
+
+
+Hector lost interest in the conversation by that point and opened his status.
+
+
+You have learned a new skill, Mace Mastery !
+Your skill Combat Prowess reached level 3 !
+Your skill Hard Training reached level 3 !
+You skill Battle Cry reached level 2 !
+You skill Combat Prowess reached level 3 !
+	
+
+“I guess carrying Mia around was hard training” He mused, humor piercing his current mood.
+
+“I heard that you ass” the woman responded. “I'm going to punch you, some time in the future.”
+
+“Looking forward to that,” Hector smirked. “What did you get anyway?”
+
+
+
+
+You have learned a new skill, Spear Mastery !
+Your skill Tracking reached level 3 !
+Your skill Wilderness survival reached level 2 !
+You have gained status Concussed ! Your maximum MP and HP are decreased for 16h43m
+	
+
+"Well, It’s good to know it's nothing permanent” Mia said with a relieved smile, "and I got something useful, Shame I lost my spear." She took a look at her HP and MP
+
+
+HP:30/60  (30 Concussed) 
+	MP: 50/80 (30 Concussed) 
+	
+
+
+
+Frank, always the voice of optimism, placed a comforting hand on her shoulder. "Don't worry, Mia. Glad we only have to wait for you to get better. As for the spear, we have the materials on hand now. You can make a new one in no time."
+
+
+Mia's smile grew a bit wider, appreciating Frank's reassurance. "You're right, Frank. I'll craft an even better one."
+
+
+Frank turned to Diana “You level up yet?” Diana gave him a look and opened her screen.
+
+
+
+
+Your skill Slowing Rune reached level 3 !
+Your skill Healing Rune reached level 3 !
+Your skill Light Rune reached level 2 !
+	
+
+
+
+“Progress is progress I guess,” Diana shrugged. “ Let's eat, I'm hungry.”
+
+
+As the group gathered around a small fire, their bellies full from a meal of cooked monster meat, the question of their next move hung in the air like a shroud of uncertainty.
+
+
+"We've got some food and water now," Mia began, her voice low and contemplative, "but we're no closer to finding a way out of this place. Time to think about the next steps."
+
+
+Diana nodded in agreement. "Exploration has been our best bet so far. Maybe if we can get a lay of the land from a higher vantage point, we'll spot something we missed at ground level."
+
+
+Mia's eyes sparkled with curiosity. "So, you're saying we should climb to the top of this building and see what we can see from up there?"
+
+
+Hector glanced up, instinctively, seeing only the arches of the great hall, his brow furrowed. "It won't be easy. But yeah, I think it's worth a shot. We need to find a way out of this nightmare."
+
+
+Frank, chimed in with a grin. "Well, they say the best way to go up is one step at a time. Let's give it a shot, guys."
+
+
+After making the decision to ascend to the rooftop, the group settled in for a much-needed day of rest. Mia's condition was their top concern, and they knew she needed time to recover. 
+
+
+Mia felt a rush of anticipation within her as they talked about the climb to the building's rooftop. The idea of getting higher up ignited a spark of hope in her chest. It meant they were one step closer to finding their way back home, a prospect that filled her with a quiet excitement. It was a modest but significant move toward returning to their old lives, and Mia eagerly looked forward to reaching that moment.
+
+
+Diana found herself drawn to the idea of experiments with rune combinations. She sat in a corner of the hideout, scribbling notes, and unpowered runes on the wall, as she tested various combinations of runes, eager to discover more possibilities.
+
+
+Hector, on the other hand, decided to create something practical. He started constructing a small training room within the hideout, using the sturdy materials they had gathered. It was a space where he could increase his strength and practice his Power Strike on a dummy he intended to build.
+
+
+Frank stood in a quiet corner of their hideout, the dim light casting elongated shadows as he twirled his daggers between his fingers. His movements were a dance, a result of unearned mastery. His goal wasn't just to be proficient with the daggers; he aimed for mastery. He felt like he was getting to know and understand his weapons better.
+
+
+With precision, he tried to execute intricate maneuvers, dropping the daggers from time to time, even cutting his own hands. He intended to hone his Sleight of Hand to its limit. His perseverance bore fruit within a couple of hours.
+
+
+Your skill Sleight of Hand reached level 2 !
+	
+
+Frank smiled to himself and went to Diana to ask for a Healing Rune for his hands. 
+
+
+During that time, Mia focused her attention on crafting herself a new spear. She had a better idea of how to do that now, and she knew exactly which pieces of wood and metal would suit her needs. With each careful measurement and attachment, she pieced together a sturdy weapon that she felt proud about. As the final touches fell into place, Mia noticed something.
+
+
+Makeshift Spear
+Attack: 10-15
+Durability: 25/25
+Range: 2 meters
+Rarity: Common
+	
+
+
+
+You have learned a new skill, Crafting !
+Crafting lvl. 1 - This skill allows the creation of basic items, like makeshift weapons, canteens, bedrolls etc.
+	
+
+When Mia had received the notification about gaining a Crafting skill, her eyes lit up with excitement. It was a skill she hadn't expected but one that held immense promise. As she examined her new ability, she felt a rush of inspiration. Ideas for crafting various items, from clothing to essential tools, swirled through her mind like a whirlwind of creativity. With this newfound skill, she saw a world of possibilities opening up before her. It wasn't just about survival anymore; it was about thriving in a hostile world.
+
+
+Mia's newfound Crafting skill sent ripples of excitement through the group. As she shared her ideas about weapon improvements, everyone huddled around, their eyes reflecting a mixture of curiosity and hope. The dimly lit room they were in suddenly seemed to glow with a shared sense of purpose.
+
+
+Under Mia's guidance, they embarked on the transformation of their existing weapons. Frank took his daggers with utmost care, treating them like prized possessions. He reluctantly handled them to Mia, who sharpened their edges, transforming them from merely serviceable weapons into finely honed instruments of stabbing. She instinctively knew how to hone the blades for it to hold the edge better and be sharper, no doubt thanks to her new skill.
+
+
+
+
+Enchanted Scrap Dagger (Sharpenned)
+Attack: 13-18
+Durability: 35/35
+Range: 0.5 meters
+Rarity: Common
+Enchantment: Basic
+
+
+	
+
+Hector, with his massive mace, was no less enthusiastic. With his mace Mia focused on reinforcing the handle, ensuring that it could withstand the force of his mighty swings. Her dexterous hands deftly worked on the weapon, turning it into a more reliable tool for crushing their enemies. 
+
+
+Enchanted Rust Mace (Reinforced)
+Attack: 12-17
+Durability: 50/50
+Range: 1 meter
+Rarity: Common
+Enchantment: Basic
+	
+
+As the day passed, the hideout buzzed with activity. Frank kept a watchful eye on Mia, occasionally sharing a light-hearted joke to lift her spirits. Diana's experiments occasionally led to bursts of bright light and curious sounds, piquing the others' interest. 
+
+Mia, not content with just improving their weaponry, set her sights on crafting armor. Her resourcefulness knew no bounds as she utilized the monster chitin they had scavenged, sometimes breaking it into smaller, manageable pieces with Hector's assistance and sometimes using the bigger fragments for large plates.
+
+
+
+
+With a practiced movement she didn’t ever practice, Mia carefully bore holes into these chitin pieces, creating a pattern that would allow for flexibility while maintaining durability. She didn’t want to decrease their mobility, so far escape has been their most useful survival tool.
+
+
+She designed a sturdy chest piece for Hector, one that would shield his vital organs during their battles. Two large chitin plates covered his front and back with a couple of smaller pieces covering his sides and arms, all tied with strips of cloth.
+
+
+Makeshift Chitin Armor
+Defense: 10
+Durability: 15/15
+Type: Heavy
+Rarity: Common
+
+
+	
+
+
+
+In addition to the chest piece, Mia fashioned a shield that would provide Hector with an extra layer of defense against the monsters that lurked around every corner. The shield was sturdy yet not overly heavy, created from a single chitin plate and two pieces of metal rammed into it working as a handle.
+
+
+Makeshift Chitin Shield
+Defense: 10
+Durability: 15/30
+Type: Heavy
+Rarity: Common
+
+
+	
+
+Mia did what she could with the materials she had available, while the chitin was sturdy and provided a good defense she had little in the way of connecting the pieces together. She suspected the low durability of the armor was a result of using the cloth strips to tie it all. She had an idea of tanning the monster skins into leather but they would have to gather that first as they didn’t save any before.
+
+
+Leather would make better armor for Frank and would increase durability for Hector’s set. 
+
+Last but not least she turned her attention to her new spear, she couldn't help but wonder how she could make it even more effective. With her newfound Crafting skill and the experience she had gained, the idea of enhancing her weapon took root in her mind.
+
+
+She meticulously examined her spear, considering its strengths and weaknesses. It was a sturdy weapon, but she believed it could become even deadlier with some modifications. With a determined look in her eyes, Mia made the decision to break it down and build a better one from its components.
+
+
+Carefully, she disassembled the spear into its constituent parts: the wooden shaft, the metal blade, and the rag-wrapped handle. Each piece held potential for improvement. She began the process of refining and enhancing them.
+
+
+The metal blade was sharpened to a razor's edge, ensuring that it could cut through flesh and chitin with ease. Mia's attention to detail was impeccable as she honed the blade to the best of her ability.
+
+
+For the handle, she used strips of cloth, but this time, she wove them together in a more ergonomic pattern, providing her with a more comfortable and secure grip during combat.
+
+
+As Mia reassembled her newly improved spear, she couldn't help but feel a sense of satisfaction. It was no longer just a weapon; it was a reflection of her dedication to their survival. With her spear in hand, she felt ready.
+
+
+Steel Spear (High Quality, Sharpened)
+Attack: 15-20
+Durability: 40/40
+Range: 2 meters
+Rarity: Common

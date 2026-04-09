@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Starship Chronicles</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --text: #e8eaed;
+      --muted: #9aa0a6;
+      --accent: #7cb8ff;
+      --accent-hover: #a8d4ff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Georgia", "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    .wrap { max-width: 36rem; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+    h1 { font-size: 1.85rem; font-weight: 600; margin: 0 0 0.35rem; }
+    .subtitle { color: var(--muted); font-size: 0.95rem; margin: 0 0 2rem; }
+    nav { margin-bottom: 1.5rem; font-size: 0.9rem; }
+    nav a { color: var(--accent); text-decoration: none; }
+    nav a:hover { color: var(--accent-hover); text-decoration: underline; }
+    ol { margin: 0; padding-left: 1.35rem; }
+    li { margin: 0.45rem 0; }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { color: var(--accent-hover); text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <nav><a href="../index.html">← All books</a></nav>
+    <h1>Starship Chronicles</h1>
+    <p class="subtitle">Chapters</p>
+    <ol id="toc"></ol>
+  </div>
+  <script>
+    (function () {
+      var files = [
+        "Chapter_1_The_Drift.md",
+        "Chapter_2_Digital_Rebirth.md",
+        "Chapter_3_Scrap_and_Circumstance.md",
+        "Chapter_4_Ghost_ship.md",
+        "Chapter_5_Partners.md",
+        "Chapter_6_Here_be_Giants.md",
+        "Chapter_7_Scavenging_is_hard_work_if_you_have_limbs.md",
+        "Chapter_8_The_Hunger.md",
+        "Chapter_9.md",
+        "Chapter_10_Port_Perilous_Gambit.md",
+        "Chapter_11_Black_Market_Bargains.md",
+        "Chapter_12_Pirate_Payroll.md",
+        "Chapter_13_Cracks_in_the_Hull.md",
+        "Chapter_14_Probe_Hunt.md",
+        "Chapter_15_Clan_Overtures.md"
+      ];
+      var ol = document.getElementById("toc");
+      for (var i = 0; i < files.length; i++) {
+        var li = document.createElement("li");
+        var a = document.createElement("a");
+        a.href = "read.html?c=" + encodeURIComponent(files[i]);
+        a.textContent = "Chapter " + (i + 1);
+        li.appendChild(a);
+        ol.appendChild(li);
+      }
+    })();
+  </script>
+</body>
+</html>
