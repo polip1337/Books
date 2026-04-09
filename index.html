@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The I of the Dragon</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --text: #e8eaed;
+      --muted: #9aa0a6;
+      --accent: #7cb8ff;
+      --accent-hover: #a8d4ff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Georgia", "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    .wrap {
+      max-width: 36rem;
+      margin: 0 auto;
+      padding: 2.5rem 1.25rem 4rem;
+    }
+    h1 {
+      font-size: 1.85rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      margin: 0 0 0.35rem;
+    }
+    .subtitle {
+      color: var(--muted);
+      font-size: 0.95rem;
+      margin: 0 0 2rem;
+    }
+    ol {
+      margin: 0;
+      padding-left: 1.35rem;
+    }
+    li { margin: 0.45rem 0; }
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    a:hover { color: var(--accent-hover); text-decoration: underline; }
+    footer {
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--surface);
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>The I of the Dragon</h1>
+    <p class="subtitle">Chapters</p>
+    <ol id="toc"></ol>
+    <footer>Hosted with GitHub Pages · Markdown rendered in the reader</footer>
+  </div>
+  <script>
+    (function () {
+      var n = 32;
+      var ol = document.getElementById("toc");
+      for (var i = 1; i <= n; i++) {
+        var name = "chapter " + i + ".md";
+        var li = document.createElement("li");
+        var a = document.createElement("a");
+        a.href = "read.html?c=" + encodeURIComponent(name);
+        a.textContent = "Chapter " + i;
+        li.appendChild(a);
+        ol.appendChild(li);
+      }
+    })();
+  </script>
+</body>
+</html>
